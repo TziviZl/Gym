@@ -1,0 +1,12 @@
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\bin\Debug\net8.0\DAL.deps.json
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\bin\Debug\net8.0\DAL.dll
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\bin\Debug\net8.0\DAL.pdb
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.dll
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\DAL.pdb
+C:\Users\כהן נועה\source\repos\Gym\Gym\MVCProject\MVCProject\obj\Debug\net8.0\ref\DAL.dll
